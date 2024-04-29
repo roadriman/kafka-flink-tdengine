@@ -1,0 +1,161 @@
+{
+  "area": "shanghai",
+  "block": "D",
+  "jt": "ZX891",
+  "LINE": "FCA003",
+  "CODE": "3891",
+  "FROM": "fskdgn",
+  "ts": 1712725213155,
+  "Tags": [
+    {
+      "TagName": "tdengine_test_column_example_1_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_2_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_3_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_4_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_5_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_6_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_7_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_8_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_9_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_10_int",
+      "ValueType": "INT",
+      "TagValue": 268
+    },
+    {
+      "TagName": "tdengine_test_column_example_11_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+    {
+      "TagName": "tdengine_test_column_example_12_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+    {
+      "TagName": "tdengine_test_column_example_13_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+    {
+      "TagName": "tdengine_test_column_example_14_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+    {
+      "TagName": "tdengine_test_column_example_15_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+    {
+      "TagName": "tdengine_test_column_example_16_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+    {
+      "TagName": "tdengine_test_column_example_17_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+    {
+      "TagName": "tdengine_test_column_example_18_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+    {
+      "TagName": "tdengine_test_column_example_19_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+    {
+      "TagName": "tdengine_test_column_example_20_double",
+      "ValueType": "DOUBLE",
+      "TagValue": 677.9247817861955
+    },
+   {
+      "TagName": "tdengine_test_column_example_21_double",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    },
+    {
+      "TagName": "tdengine_test_column_example_22_double",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    },
+    {
+      "TagName": "tdengine_test_column_example_23_double",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    },
+    {
+      "TagName": "tdengine_test_column_example_24_double",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    },
+    {
+      "TagName": "tdengine_test_column_example_25_double",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    },
+    {
+      "TagName": "tdengine_test_column_example_26_double",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    },
+    {
+      "TagName": "tdengine_test_column_example_27_double",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    },
+    {
+      "TagName": "tdengine_test_column_example_28_double",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    },
+    {
+      "TagName": "addCOl2",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    },
+    {
+      "TagName": "addCOl1",
+      "ValueType": "NCHAR",
+      "TagValue": "tdengine_test_column_example_9991"
+    }
+  ] 
+}
