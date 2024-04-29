@@ -1,4 +1,4 @@
-# flink_kafka-tdengine
+# flink-kafka-tdengine
 
 
 
@@ -8,14 +8,20 @@
 
 并行度设置为partition的数量，taskmanager设置3个g左右的java heap，所有容器加起来大概每秒能够写入一万五千条数据，也就是45万个tag点。
 
-kafka json格式：{...多个tag信息字段,"ts":1712725213155,"Tags":[...{{
-      "TagName": "tdengine_test_column_example_1_int",
-      "ValueType": "INT",
-      "TagValue": 268
-    }}]}
+topic格式：td_w_dbName_supertableName
+
+kafka json格式：{
+		...多个tag信息字段,"ts":1712725213155,
+		"Tags":[...{
+        "TagName": "tdengine_test_column_example_1_int",
+        "ValueType": "INT",
+        "TagValue": 268
+    }]}
 
 ## 部署
 
 maven package
 
- 
+服务器kafka版本:3.9.0
+
+服务器Tdengine版本：3.1.0
